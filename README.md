@@ -11,5 +11,6 @@ This code adds relative path hyperlinks to files in the footnotes in a word docu
 5. This code will add multiple hyperlinks in one footnote if it matches with multiple file names. user can also include other text that does not match any      file names in the footnote. these text will not be hyperlinked. 
 6. sometimes hyperlinks were not successfully added even there is a match, the index of the footnotes will be included in the log file for user to check.
 
-Tips
+## Tips
+  
 to make sure you correctly include the supporting document's name into the footnote, single click on the document and press "F2" and Ctrl C to copy it. 
